@@ -1,0 +1,15 @@
+.canvas {
+    display :block;
+    border : 8px solid rgb(20, 137, 233);
+} 
+
+.header{
+    display : flex;
+    background-color: rgb(153, 235, 85);
+    justify-content: center;
+}
+
+/*.content{
+    display: block;
+    background-color: paleturquoise;
+}*/
